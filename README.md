@@ -1,19 +1,19 @@
-<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
+<h1 align="center">Hi :wave:, I'm Keval Waghate</h1>
 <h3 align="center">A passionate Linux developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="akash6222" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevalW&label=Profile%20views&color=0e75b6&style=flat" alt="KevalW" /> </p>
 
 
 
-- 🔭 I’m currently working on [TCET Linux](https://github.com/tcet-opensource/tcet-linux)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **C++, Dsa, DevOps Tools**
 
-- 👯 I’m looking to collaborate on **Open Source Communities**
+- 👯 I’m looking to collaborate on **keval**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akash6222?tab=repositories](https://github.com/Akash6222?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/KevalW?tab=repositories](https://github.com/KevalW?tab=repositories)
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **akashlinux0@gmail.com**
 
@@ -51,21 +51,21 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <p align="center">
-    <a><img alt="Gihub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="Akash6222" height="192px"/></a>
+    <a><img alt="Gihub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=KevalW&show_icons=true&theme=radical" alt="KevalW" height="192px"/></a>
 	</p>
   </p>
 </details>
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
   <p align="center">
-   <a><img alt="Gihub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
+   <a><img alt="Gihub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KevalW&theme=radical" /></a>
 
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
  <p align="center">
-   <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
-   <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Akash%20Dubey's%20Activity%20Graph&theme=react-dark" /></a>-->
+   <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/KevalW/KevalW/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
+   <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KevalW&custom_title=Keval%20Waghate's%20Activity%20Graph&theme=react-dark" /></a>-->
 </details>
 
 
