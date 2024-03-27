@@ -1,29 +1,23 @@
 <h1 align="center">Hi :wave:, I'm Keval Waghate</h1>
-<h3 align="center">A passionate Linux developer from India</h3>
+<h3 align="center">A passionate python devloper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevalW&label=Profile%20views&color=0e75b6&style=flat" alt="KevalW" /> </p>
 
 
 
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning **C++, Dsa, DevOps Tools**
-
-- 👯 I’m looking to collaborate on **keval**
+- 🔭 I’m currently working on webdev
 
 - 👨‍💻 All of my projects are available at [https://github.com/KevalW?tab=repositories](https://github.com/KevalW?tab=repositories)
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **akashlinux0@gmail.com**
+- 📫 How to reach me **keval.waghate@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
 ### 📋 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java Script](https://img.shields.io/badge/Java%20Script-yellow)
 
 ### ☁️ Hosting/SaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
