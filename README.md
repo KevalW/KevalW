@@ -33,7 +33,7 @@
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ## DSA Stats (Expand to View)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Keval23?theme=dark&font=Raleway)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Keval23?theme=dark&font=Raleway)](https://leetcode.com/u/Keval23/)
 
 
 ## 📊 Github Stats (Expand to View)
