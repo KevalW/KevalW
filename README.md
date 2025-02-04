@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on webdev
+- 🔭 I’m currently working as webdev
 
 - 👨‍💻 All of my projects are available at [https://github.com/KevalW?tab=repositories](https://github.com/KevalW?tab=repositories)
 
@@ -31,6 +31,10 @@
 ### 🧑‍💻 Developer/Forums
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+## DSA Stats (Expand to View)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Keval23?theme=dark&font=Raleway)
+
 
 ## 📊 Github Stats (Expand to View)
 
@@ -59,5 +63,8 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Keval23?theme=dark&font=Raleway)
+
+
 
 ---
