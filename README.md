@@ -32,9 +32,8 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-## DSA Stats (Expand to View)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Keval23?theme=dark&font=Raleway)](https://leetcode.com/u/Keval23/)
-
+### 🔥 LeetCode
+[![LeetCode Streak](https://leetcard.jacoblin.cool/Keval23?theme=dark&ext=heatmap&site=leetcode)](https://leetcode.com/u/Keval23/)
 
 ## 📊 Github Stats (Expand to View)
 
